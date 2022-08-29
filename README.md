@@ -1,8 +1,9 @@
 # Инструкция по работе с программой (программа поддерживает ОС Windows 7-10)
 
-0. Загрузите из репозитория файлы: 'GUI.py', 'image_analysis.py', 'requirements.txt', 'python-3.8.10'.
+0. Загрузите из репозитория файлы: 'GUI.py', 'image_analysis.py', 'requirements.txt'.
 1. Проверьте что 'GUI.py', 'image_analysis.py', 'requirements.txt' лежат в одной папке (лучше создать под них отдельную папку).
 2. Установите python:
+	1) Скачайте установщик python (с учетом разрядности вашей ОС): https://www.python.org/downloads/release/python-3810/
 	1) Запустите файл 'python-3.8.10-64.exe', если у вас 64 разрядная система или 'python-3.8.10-32.exe', если 32 разрядная.
 	2) Поставьте ✓ напротив пункта: 'ADD Python 3.8 to PATH'.
 	3) Нажмите 'Install Now'.
